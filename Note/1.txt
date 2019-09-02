@@ -1,0 +1,13 @@
+인터프리터 방식
+
+
+주석 ...
+\ 줄을 바꿔도 한줄로 인식
+
+º 터틀 그래픽 - 파이썬 쉘에서 실습
+t.right(90) : 오른쪽으로 90도 회전
+t.forward(100) : 100픽셀 전진
+t.color("blue") : 선 색이 파랑
+t.shape("arrow" | "triangle" | "classic" | "turtle" | "square" | "circle")
+t.circle(100) : 반지름이 100픽셀인 원을 그린다.
+
